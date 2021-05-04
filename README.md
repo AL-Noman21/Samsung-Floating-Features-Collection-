@@ -1,7 +1,7 @@
 # Samsung Floating Features Collection For Custom Rom .!!
 
 # Read it : All features came from samsung J6 - S9 - S20 -S21 5G and more .
-# Samsung gave them for us those features and we just found them from samsung firmware . Nothing is made by us .
+# Samsung gave them for us those features and i just found them from samsung firmware . Nothing is made by me  .
 
 Use them one by one . Dont copy and paste all code on same time . It will give you bootoop . Because some code depend on software and hardware .
 
