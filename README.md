@@ -3,6 +3,8 @@ Samsung Floating Features Collection
 
 Samsung Floating Features Collection For Custom Rom .
 
+You need to add those code into your floating_feature.xml
+
 Floating feature locating >
 
 # If you have just system partition then 
