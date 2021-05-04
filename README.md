@@ -1,4 +1,4 @@
-# Samsung Floating Features Collection For Custom Rom .!!
+# Samsung Floating Features Collection For Custom Rom .
 
 # Read it : All features came from samsung J6 - S9 - S20 -S21 5G and more .
 # Samsung gave them for us those features and i just found them from samsung firmware . Nothing is made by me  .
@@ -47,7 +47,7 @@ If you have separate vendor partition then
 
     <SEC_FLOATING_FEATURE_SIP_SUPPORT_HIGHCONTRAST_KEYBOARD>TRUE</SEC_FLOATING_FEATURE_SIP_SUPPORT_HIGHCONTRAST_KEYBOARD>
    
-# 06 : Charging info showing enabler code 
+# 06 : Charging info showing enabler code .
 
     <SEC_FLOATING_FEATURE_LCD_SUPPORT_AMOLED_DISPLAY>TRUE</SEC_FLOATING_FEATURE_LCD_SUPPORT_AMOLED_DISPLAY>
     
@@ -96,7 +96,6 @@ If you have separate vendor partition then
      <SEC_FLOATING_FEATURE_SYSTEMUI_SUPPORT_BRIEF_NOTIFICATION>TRUE</SEC_FLOATING_FEATURE_SYSTEMUI_SUPPORT_BRIEF_NOTIFICATION>
 
 # 14 : Navigation bar enabler code .
-
       <SEC_FLOATING_FEATURE_FRAMEWORK_CONFIG_NAVIGATION_BAR_THEME>SupportLightNavigationBar|SupportCustomBgColor|SupportNaviBarRemoteView</SEC_FLOATING_FEATURE_FRAMEWORK_CONFIG_NAVIGATION_BAR_THEME>
 
 # 15 : Smart switch enabler code .
