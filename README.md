@@ -3,7 +3,7 @@
 # Read it : All features came from samsung J6 - S9 - S20 -S21 5G and more .
 # Samsung gave those features for us and i just found them from samsung firmware . Nothing is made by me  .
 
-Use them one by one . Dont copy and paste all code on same time . It will give you bootoop . Because some code depend on software and hardware . Please delete every feature old code and use new code .
+Use them one by one .  Please delete every feature old code and use new code .Dont copy and paste all code on same time . It will give you bootoop .
 
 You need to add those code into your floating_feature.xml
 
