@@ -1,7 +1,4 @@
-# Samsung-Floating-Features-Collection-
-Samsung Floating Features Collection
-
-Samsung Floating Features Collection For Custom Rom .
+# Samsung Floating Features Collection For Custom Rom .!!
 
 You need to add those code into your floating_feature.xml
 
@@ -117,3 +114,10 @@ If you have separate vendor partition then
 
       <SEC_FLOATING_FEATURE_FRAMEWORK_SUPPORT_SMOOTH_SCROLL>TRUE</SEC_FLOATING_FEATURE_FRAMEWORK_SUPPORT_SMOOTH_SCROLL>
 
+# 20 : Bluetooth audio recorder enabler code .
+
+      <SEC_FLOATING_FEATURE_AUDIO_SUPPORT_BT_RECORDING>TRUE</SEC_FLOATING_FEATURE_AUDIO_SUPPORT_BT_RECORDING>
+
+# 21 : Camera torch brightness level .
+
+      <SEC_FLOATING_FEATURE_CAMERA_SUPPORT_TORCH_BRIGHTNESS_LEVEL>TRUE</SEC_FLOATING_FEATURE_CAMERA_SUPPORT_TORCH_BRIGHTNESS_LEVEL>
