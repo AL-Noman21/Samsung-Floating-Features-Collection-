@@ -3,9 +3,11 @@
 # Read it : All features came from samsung J6 - S9 - S20 -S21 5G and more .
 # Samsung gave them for us those features and we just found them from samsung firmware . Nothing is made by us .
 
+# Use them one by one . Dont copy and paste all code . It will give you bootoop .
+
 You need to add those code into your floating_feature.xml
 
-Use notepad++ for edit.floating feature. ( Recommend )
+Use notepad++ for editing floating feature. ( Recommend )
 
 Floating feature locating >
 
