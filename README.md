@@ -9,11 +9,11 @@ Use notepad++ for edit.floating feature. ( Recommend )
 
 Floating feature locating >
 
-# If you have just system partition then 
+If you have just system partition then 
 
     system/etc/floating_feature.xml
 
-# If you have separate vendor partition then 
+If you have separate vendor partition then 
 
     vendor/etc/floating_feature.xml   
 
@@ -30,7 +30,7 @@ Floating feature locating >
    <SEC_FLOATING_FEATURE_AUDIO_SUPPORT_DUAL_SPEAKER>TRUE</SEC_FLOATING_FEATURE_AUDIO_SUPPORT_DUAL_SPEAKER>
    <SEC_FLOATING_FEATURE_AUDIO_SUPPORT_DOLBY_GAME_PROFILE>TRUE</SEC_FLOATING_FEATURE_AUDIO_SUPPORT_DOLBY_GAME_PROFILE>
    <SEC_FLOATING_FEATURE_AUDIO_SUPPORT_DEFAULT_ON_DOLBY_IN_GAME>TRUE</SEC_FLOATING_FEATURE_AUDIO_SUPPORT_DEFAULT_ON_DOLBY_IN_GAME>
-   <SEC_FLOATING_FEATURE_AUDIO_CONFIG_SOUNDALIVE_VERSION>eq_knob,eq_custom,uhq_switch,uhq_level,adapt,spk_stereo,dvfs_860000,tube,concert</SEC_FLOATING_FEATURE_AUDIO_CONFIG_SOUNDALIVE_VERSION>
+   <SEC_FLOATING_FEATURE_AUDIO_CONFIG_SOUNDALIVE_VERSION>eq_custom,uhq_onoff,karaoke,adapt,spk_stereo,dvfs_700000</SEC_FLOATING_FEATURE_AUDIO_CONFIG_SOUNDALIVE_VERSION>
 
 # 03 : Function menu key enabler code .
 
